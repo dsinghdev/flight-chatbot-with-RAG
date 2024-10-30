@@ -1,0 +1,91 @@
+{
+    "user": {
+        "id": 227,
+        "flights": [
+            {
+                "ticket_id": 3183,
+                "pnr": "HZAVJJ",
+                "class": "ECONOMY",
+                "source": "Cape Town International Airport (CPT)",
+                "destination": "Indira Gandhi International Airport (DEL)",
+                "departure_date": "2024-07-11T14:35:00.000Z",
+                "arrival_date": "2024-07-12T08:10:00.000Z",
+                "layover_duration": "55m",
+                "segments": [
+                    {
+                        "flight_number": "ET846",
+                        "departure": {
+                            "airport": "Cape Town International Airport",
+                            "iata": "CPT",
+                            "date": "2024-07-11T14:35:00.000Z"
+                        },
+                        "arrival": {
+                            "airport": "Addis Ababa Bole International Airport",
+                            "iata": "ADD",
+                            "date": "2024-07-11T22:00:00.000Z"
+                        },
+                        "passengers": [
+                            {
+                                "first_name": "surendra",
+                                "last_name": "singh",
+                                "seat_number": "21a",
+                                "cabin_baggage": "7kg",
+                                "check_in_baggage": "23kg"
+                            },
+                            {
+                                "first_name": "narinder",
+                                "last_name": "kaur",
+                                "seat_number": "21b",
+                                "cabin_baggage": "7kg",
+                                "check_in_baggage": "23kg"
+                            },
+                            {
+                                "first_name": "samik",
+                                "last_name": "singh",
+                                "seat_number": "21c",
+                                "cabin_baggage": "7kg",
+                                "check_in_baggage": "23kg"
+                            }
+                        ]
+                    },
+                    {
+                        "flight_number": "ET686",
+                        "departure": {
+                            "airport": "Addis Ababa Bole International Airport",
+                            "iata": "ADD",
+                            "date": "2024-07-11T22:55:00.000Z"
+                        },
+                        "arrival": {
+                            "airport": "Indira Gandhi International Airport",
+                            "iata": "DEL",
+                            "date": "2024-07-12T08:10:00.000Z"
+                        },
+                        "passengers": [
+                            {
+                                "first_name": "surendra",
+                                "last_name": "singh",
+                                "seat_number": "21a",
+                                "cabin_baggage": "7kg",
+                                "check_in_baggage": "23kg"
+                            },
+                            {
+                                "first_name": "narinder",
+                                "last_name": "kaur",
+                                "seat_number": "21b",
+                                "cabin_baggage": "7kg",
+                                "check_in_baggage": "23kg"
+                            },
+                            {
+                                "first_name": "samik",
+                                "last_name": "singh",
+                                "seat_number": "21c",
+                                "cabin_baggage": "7kg",
+                                "check_in_baggage": "23kg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

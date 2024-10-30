@@ -1,0 +1,6 @@
+huggingface-hub==0.26.2
+pinecone-client==5.0.1
+python-dotenv==1.0.1
+sentence-transformers==3.2.1
+streamlit==1.39.0
+
